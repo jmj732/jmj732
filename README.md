@@ -10,7 +10,7 @@
 
 - **프로그래밍 언어**: JavaScript, C, (Java, C++)
 - **프레임워크**: React, (Spring)
-- - **데이터베이스**: MySQL
+- **데이터베이스**: MySQL
 
 ### 연락처
 
