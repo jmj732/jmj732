@@ -15,3 +15,5 @@
 ### 연락처
 - **벨로그**: https://velog.io/@bssm_woals/posts
 - **이메일**: [jaeminjo732@gmail.com](mailto:jaeminjo732@gmail.com)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmj732&show_icons=true&theme=radical)
