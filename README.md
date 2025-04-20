@@ -8,8 +8,8 @@
 
 ### 기술 스택
 
-- **프로그래밍 언어**: JavaScript, C, Java
-- **프레임워크**: Spring
+- **프로그래밍 언어**:  Java, Python, C/C++, JavaScript,
+- **프레임워크**: Spring Boot
 - **데이터베이스**: MySQL, MariaDB
 
 ### 연락처
